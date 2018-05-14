@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Engine Simulation Custom Device ##
 
 This Add-On is **deprecated** and is no longer updated with new features or bug fixes. Therefore, it is not recommended for use in new projects. A next-generation [Engine Simulation Toolkit](https://github.com/NIVeriStandAdd-Ons/Engine-Simulation-Toolkit-Custom-Device) is available. The new toolkit offers vast improvements to FPGA space utilization, RT performance, and many new features.
